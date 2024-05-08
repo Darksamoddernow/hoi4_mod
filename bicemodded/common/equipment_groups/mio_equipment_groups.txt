@@ -94,10 +94,10 @@ mio_cat_eq_all_small_plane = { #Includes all Small Aircraft (Fighter, CAS, Nav) 
 mio_cat_eq_all_medium_plane = { #Includes all Medium Aircraft (Tactical Bomber, Heavy Fighter, Scout) --- Used due to custom loc capabilities
 	equipment_type = {
 	    heavy_fighter_equipment
-		tac_bomber_equipment
-		jet_tac_bomber_equipment
-		light_bomber_equipment
-		scout_plane_equipment
+			tac_bomber_equipment
+			jet_tac_bomber_equipment
+			light_bomber_equipment
+				scout_plane_equipment
 	}
 }
 
@@ -106,11 +106,10 @@ mio_cat_eq_all_large_plane = { #Includes all Heavy Aircraft (Strategic Bomber, M
 		strat_bomber_equipment
 		jet_strat_bomber_equipment
 		transport_plane_equipment
-		flying_boat_equipment
 	}
 }
 
-mio_cat_eq_all_cv_aircraft = { #Includes all CV aircraft (Fighter, CAS, Nav) --- Needed because plane designer is a gift to us all
+mio_cat_eq_all_cv_aircraft = { #Includes all CV aircraft (Fighter, Nav) --- Needed because plane designer is a gift to us all
 	equipment_type = {
 		cv_fighter_equipment
 		cv_nav_bomber_equipment
@@ -146,5 +145,13 @@ mio_cat_eq_only_strategic_bomber = { #Includes only Strategic Bomber (No Maritim
 	equipment_type = {
 		strat_bomber_equipment
 		jet_strat_bomber_equipment
+	}
+}
+
+mio_cat_eq_strategic_bomber_and_flying_boat = { #includes Strategic Bomber, Jet Strategic flying_boat_equipmentomber and Marittime Patrol}
+	equipment_type = {
+		strat_bomber_equipment
+		jet_strat_bomber_equipment
+		flying_boat_equipment
 	}
 }
