@@ -3880,10 +3880,10 @@ generic_light_aircraft_organization = {
 	}
 
 	equipment_type = {
-		mio_cat_eq_only_light_fighter
+		mio_cat_eq_only_fighter_equipment
 	}
 
-	research_categories = {	mio_cat_all_light_fighter_and_modules }
+	research_categories = {	mio_cat_all_fighter_equipment_and_cv_fighter_equipment }
 	
 	tree_header_text = {
 		text = mio_header_production
