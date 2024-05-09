@@ -102,7 +102,7 @@ ideologies = {
 		ai_communist = yes # uses the commie AI behaviour
 		
 		rules = {
-			can_force_government = no
+			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
 		}

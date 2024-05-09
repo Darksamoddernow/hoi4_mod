@@ -151,10 +151,12 @@ JAP_BB_HISTORICAL = {
 			# Captured/Converted/Older Models
 			"Fusô" "Yamashiro" "Ise" "Hyûga" "Nagato" "Mutsu" "Shinano" 
 			# Fictional
-			"Dewa" "Hitachi" "Noto" "Hida" "Mino" "Mikawa" "Suruga" "Kai" "Izumi" "Kawachi" "Iga" "Tanba" "Sanuki" "Awa" "Satsuma"
+			"Dewa" "Hitachi" "Noto" "Hida" "Mino" "Mikawa" "Suruga" "Kai" "Izumo" "Kawachi" "Iga" "Tanba" "Sanuki" "Awa" "Satsuma"
 			"Osumi" "Aki" "Settsu" "Tajima" "Iyo" "Omi"
 	}
 }
+
+"Hitachi" = back_massage_device
 
 ### BATTLECRUISER NAMES ###
 JAP_BC_HISTORICAL = {
@@ -170,7 +172,7 @@ JAP_BC_HISTORICAL = {
 	unique = {
 		"Amagi" "Tsukuba" "Ikoma" "Ibuki" "Kurama" "Akagi" "Atago" "Takao" "Kongô" "Hiei" "Haruna" "Kirishima"
 		# Fictional
-		"Iwaki" "Iwate" "Asahi" "Zao" "Iide" "Azuma" "Bandai" "Nasu" "Makihata" "Tanigawa" "Takatsuma" "Hotaka"
+		"Iwami" "Iwate" "Asahi" "Zao" "Iide" "Azuma" "Bandai" "Nasu" "Makihata" "Tanigawa" "Takatsuma" "Hotaka"
 		"Asama" "Tsukuba" "Hotaka" "Jonen" "Norikura" "Tateshina" "Mizugaki" "Tanzawa" "Ena" "Shiomi" "Akaishi"
 		"Omine" "Ishizuchi" "Aso" "Kaimon" "Waga" "Kurikoma" "Moriyoshi" "Sumon" "Hakkai" "Iwasuge" "Myogi" "Buko"
 		"Hakuseki" "Ashitaka" "Osuzu" "Ichifusa" "Yufu" "Unzen" "Ariake" "Iizuma"
@@ -190,7 +192,9 @@ JAP_CV_HISTORICAL = {
 
 	unique = {
 			"Akagi" "Sôryû" "Hiryû" "Shôkaku" "Zuikaku" "Jun'yô" "Hiyô" "Taihô" "Unryû" "Amagi" "Katsuragi" "Shinano" "Kasagi" "Aso" "Ikoma" 
-			"Kurama" "Kaga" 
+			"Kurama" "Kaga"
+			# FICTIONAL
+			"Sekiryu"
 	}
 }
 

@@ -34,7 +34,7 @@ characters={
 			}
 		}
 		corps_commander={
-			traits={ brilliant_strategist career_officer }
+			traits={ brilliant_strategist career_officer armor_officer }
 			skill=4
 			attack_skill=3
 			defense_skill=3
@@ -123,7 +123,7 @@ characters={
 			    factor = 500
 		    }
 			
-			cost = 250
+			cost = 200
 			
 			research_bonus = {
 				cat_mass_assault = 0.15
@@ -151,7 +151,7 @@ characters={
 			}
 		}
 		corps_commander={
-			traits={ media_personality harsh_leader war_hero }
+			traits={ media_personality harsh_leader war_hero armor_officer }
 			skill=4
 			attack_skill=4
 			defense_skill=5
@@ -193,7 +193,7 @@ characters={
 			}
 		}
 		corps_commander={
-			traits={ old_guard trait_cautious skilled_staffer }
+			traits={ old_guard trait_cautious skilled_staffer armor_officer }
 			skill=4
 			attack_skill=4
 			defense_skill=4
@@ -395,7 +395,7 @@ characters={
 			}
 		}
 		corps_commander={
-			traits={ brilliant_strategist }
+			traits={ brilliant_strategist armor_officer }
 			skill=4
 			attack_skill=4
 			defense_skill=1
@@ -975,10 +975,10 @@ characters={
 			    factor = 500
 		    }
 			
-			cost = 250
+			cost = 200
 			
 			research_bonus = {
-				cat_mass_assault = 0.10
+				cat_mass_assault = 0.2
 			}
 			
 			# PURGED
